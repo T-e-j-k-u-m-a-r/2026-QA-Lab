@@ -1,4 +1,3 @@
-# 2026-QA-Lab
 A repo on brushing up javascript concept
 
 ## 🚀 Open in GitHub Codespaces
