@@ -9,7 +9,7 @@ This repository is a playground for javascript learning
 
 Click the button below to launch this repository directly in **GitHub Codespaces** (no local setup required):
 
-<a href="https://codespaces.new/<T-e-j-k-u-m-a-r>/<2026-QA-Lab>">
+<a href="https://codespaces.new/T-e-j-k-u-m-a-r/2026-QA-Lab">
   <img src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces">
 </a>
 
