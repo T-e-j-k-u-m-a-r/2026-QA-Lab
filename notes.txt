@@ -1,0 +1,16 @@
+Part 1: 
+
+1. Javascript - Complete series (Source 1: HC) : ✅ Total length : 10 hours, 39 minutes, 29 seconds
+2. Javascript - Complete series (Source 2: Girl) : ✅ Total length : 13 hours, 56 minutes, 4 seconds
+
+------------------------------------------------------------------------------------------------
+Part 2: 
+
+Real time implementation w.r.t project like for in depth understanding of all core concepts
+
+------------------------------------------------------------------------------------------------
+Part 3: 
+
+Interview question on all topic along with DSA Mastering
+
+------------------------------------------------------------------------------------------------
