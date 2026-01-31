@@ -1,0 +1,138 @@
+Javascript topics:: 
+
+Part 1: ✅✅✅✅✅
+
+1. HC from Video 1 to 19 - In progress
+	Note: (Completed till 13th Video)
+	
+2. Apna girl from Video 1 to 3 - Todo 
+
+Extra Topics: ✈️✈️
+
+Mastering below concepts & interview questions:: 
+
+1. window, document, body  
+2. node, npm, package.json, package-lock.json
+3. Increment and Decrement operators
+4. Conditional operators: 
+	WAP to explain conditional statements (if, if else)
+	WAP to explain ternary operators
+	What are the falsy values in Javascripts? Which are them ? Explain in coding.. 
+	
+5. Switch statements: 
+	
+Assignment: 
+// Create an application with following roles using switch statements
+
+// admin    - gets full access
+// subadmin - gets access to create/delete courses
+// testprep - gets access to create/delete tests
+// user     - gets access to consume content
+
+6. == and === 
+7. null and undefined 
+
+
+🎉🎉🎉: Coding Practise: 
+------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Part 2: ✅✅✅✅✅
+
+1. HC from Video 20 till end
+2. Apna Girl from 4 & 5
+
+Extra Topics: ✈️✈️
+
+Mastering below concepts & interview questions::
+
+1. const, var & let
+
+🎉🎉🎉: Coding Practise: 
+------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+Part 3: ✅✅✅✅✅
+
+0. Complete series from Namaste 🚀🚀 
+	Master background scene during execution of Javascript 
+1. Apna Girl remaining Video 
+2. Mastering concepts of Arrays, Objects, Strings, OOPS concepts 
+
+
+Extra Topics: ✈️✈️
+
+Mastering below concepts & interview questions:: 
+
+1. math and date function
+
+🎉🎉🎉: Coding Practise: 
+------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+Part 4: ✅✅✅✅✅
+
+1. DOM Manipulation along with html, css and javascript
+2. Create simple app
+
+
+Extra Topics: ✈️✈️
+
+Mastering below concepts & interview questions:: 
+
+🎉🎉🎉: Coding Practise: 
+------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+Part 5: ✅✅✅✅✅
+
+1. Interview question preparation of all above topics + DSA Mastery
+2. Mastering github, github commands and other interview questions  
+3. Mastering JSON, TOON 
+
+Extra Topics: ✈️✈️
+
+Mastering below concepts & interview questions:: 
+
+🎉🎉🎉: Coding Practise: 
+------------------------------------------------------------------
+
