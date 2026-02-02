@@ -1,5 +1,4 @@
-// `// console.log(`Javascript programming`);
-
+// console.log(`Javascript programming`);
 // var accountHolderName = 'Tejkumar';
 // var branchName = "M.G Road"
 // var city = "Bengalure";
