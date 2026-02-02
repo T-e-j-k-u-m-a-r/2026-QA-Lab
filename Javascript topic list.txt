@@ -17,8 +17,7 @@ Mastering below concepts & interview questions::
 4. Conditional operators: 
 	WAP to explain conditional statements (if, if else)
 	WAP to explain ternary operators
-	What are the falsy values in Javascripts? Which are them ? Explain in coding.. 
-	
+	What are the falsy values in JavaScript? Which are them? Explain in coding..	
 5. Switch statements: 
 	
 Assignment: 
@@ -32,8 +31,8 @@ Assignment:
 6. == and === 
 7. null and undefined 
 
-
 🎉🎉🎉: Coding Practise: 
+
 ------------------------------------------------------------------
 
 
