@@ -83,6 +83,38 @@ Example: AccountHolder in a bank
  */
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // gameNumber = 25;
 
 // randomNumber = Number(prompt(`Enter the number....`));
